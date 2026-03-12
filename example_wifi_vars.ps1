@@ -1,0 +1,2 @@
+﻿$ProfileName = "<SSID>"
+$Password = '<Password>'
